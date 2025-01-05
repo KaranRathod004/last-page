@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+    color: #333;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+
+p{
+    font-size: 25px;
+    display: flex;
+}
+
+img{
+    margin-top: -15px;
+    margin-left: 10px;
+}
+
+a{
+    font-size: 25px;
+}
